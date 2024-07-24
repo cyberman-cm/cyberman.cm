@@ -128,7 +128,7 @@ a {
     font-size: 30px;
 }
 .y{
-    background: linear-gradient(90deg, red, rgb(83, 0, 0));
+    background: rgb(227, 20, 20);
     cursor: pointer;
 }
 .d{
@@ -140,7 +140,7 @@ a {
     cursor: pointer;
 }
 .i{
-    background: linear-gradient(90deg, rgb(112, 6, 86), rgb(143, 56, 6));
+    background: rgb(156, 38, 181);
     cursor: pointer;
 }
 
