@@ -80,7 +80,7 @@ a {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: start;
+    align-items: center;
     padding: 20px;
     background: rgba(0, 0, 0, 0.2);
     backdrop-filter: blur(5px);
