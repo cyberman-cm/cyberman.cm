@@ -103,6 +103,7 @@ a {
     align-items: center;
     flex-wrap: wrap;
     gap: 10px;
+    background: #1115;
     padding: 10px 20px 10px 20px;
     border-radius: 5px;
 }
