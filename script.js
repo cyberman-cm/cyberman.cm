@@ -12,4 +12,4 @@ window.addEventListener("load", () => {
 
 // Debug, true;
 // Crx, true;
-// it's me, @cyberman.cm;
+// @encrypted.asm
