@@ -12,4 +12,3 @@ window.addEventListener("load", () => {
 
 // Debug, true;
 // Crx, true;
-// @encrypted.asm
